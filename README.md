@@ -18,6 +18,14 @@ I'm a senior full-stack developer with over 15 years of experience delivering sc
 
 ---
 
+## 🏆 GitHub Trophy Cabinet
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cto-web&theme=flat&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
@@ -32,7 +40,7 @@ I'm a senior full-stack developer with over 15 years of experience delivering sc
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,laravel,flask,nestjs,ruby,rails" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,laravel,flask,ruby,rails" />
 </p>
 
 ### Database
@@ -58,14 +66,6 @@ I'm a senior full-stack developer with over 15 years of experience delivering sc
   <img src="https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/-Shopify-95BF47?style=flat&logo=shopify&logoColor=white" />
   <img src="https://img.shields.io/badge/-BigCommerce-1B344C?style=flat&logo=bigcommerce&logoColor=white" />
-</p>
-
----
-
-## 🏆 GitHub Trophy Cabinet
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cto-web&theme=flat&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
 </p>
 
 ---

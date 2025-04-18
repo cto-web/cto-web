@@ -62,6 +62,14 @@ I'm a senior full-stack developer with over 15 years of experience delivering sc
 
 ---
 
+## 🏆 GitHub Trophy Cabinet
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cto-web&theme=flat&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+</p>
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -70,5 +78,6 @@ I'm a senior full-stack developer with over 15 years of experience delivering sc
 </p>
 
 ---
+
 
 <p align="center"><sub>Built with ❤️ by cto-web | Powered by experience, curiosity, and clean code.</sub></p>

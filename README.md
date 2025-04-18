@@ -1,4 +1,4 @@
-<h1 align="center">♛ Elite Full Stack Developer | CTO-Level Expertise | MERN / Laravel / DevOps</h1>
+<h1 align="center">♛ Elite Full Stack Developer | CTO-Level Expertise | CMS / MERN / Laravel / DevOps</h1>
 <p align="center"><em>Let’s grow together. Let’s achieve big goals — together.</em></p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 ## 👋 About Me
 
-I'm a senior full-stack developer with over 7 years of experience delivering scalable, secure, and high-performance web applications. My focus is on delivering measurable business value through clean code and reliable systems.
+I'm a senior full-stack developer with over 15 years of experience delivering scalable, secure, and high-performance web applications. My focus is on delivering measurable business value through clean code and reliable systems.
 
 - 🧠 Specializing in React, Node.js, Laravel, and scalable architecture  
 - 🛠️ DevOps enthusiast — Docker, AWS, GitHub Actions  

@@ -74,7 +74,6 @@ I'm a senior full-stack developer with over 15 years of experience delivering sc
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cto-web&show_icons=true&theme=default" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cto-web&theme=default" />
 </p>
 
 ---

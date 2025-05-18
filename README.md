@@ -1,4 +1,4 @@
-<h1 align="center">♛ Elite Full Stack Developer | CTO-Level Expertise | CMS / MERN / Laravel / DevOps</h1>
+<h1 align="center">♛ Elite Full Stack Developer | CTO | CMS / MERN / Laravel / DevOps</h1>
 <p align="center"><em>Let’s grow together. Let’s achieve big goals — together.</em></p>
 
 <p align="center">
